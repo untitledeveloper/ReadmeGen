@@ -2,7 +2,7 @@ function generate_md(answers) {
     return `
 # ${answers.title}
   
-![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br>
 
 ## Description
 ${answers.description}
@@ -24,7 +24,7 @@ ${answers.usage}
 
 ## License
 ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
-<br />
+<br>
 ${answers.license} license. 
 
 ## Credit
@@ -34,10 +34,10 @@ ${answers.credit}
 ${answers.tests}
 
 ## Questions
-${answers.questions}<br />
+${answers.questions}<br>
 
-Github: [${answers.github}](https://github.com/${answers.github})<br />
-Email: ${answers.email}<br />
+Github: [${answers.github}](https://github.com/${answers.github})<br>
+Email: ${answers.email}<br>
     `;
   }
   

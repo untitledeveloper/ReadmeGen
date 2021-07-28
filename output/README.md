@@ -36,5 +36,5 @@ Test
 Test<br />
 
 Github: [Test](https://github.com/Test)<br />
-Email: Test<br />
+Email: test@test.com<br />
     

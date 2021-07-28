@@ -1,28 +1,40 @@
 
 # ReadmeGen
   
-![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br>
 
 ## Description
 JavaScript CLI Readme Generator
 
 ## Table of Contents
 * [Description](#description)
-* [Installation](#installation)
+* [Installation/Usage](#installation/usage)
 * [Usage](#usage)
 * [License](#license)
 * [Credit](#credit)
 * [Contact](#contact)
 
-## Installation
-npm install inquirer
+## Installation/Usage
+```
+$ git clone https://github.com/untitledeveloper/readme-gen.git
+$ cd readme-gen
+$ npm install inquirer
+$ node index.js
+```
 
-## Usage
+##### *You can also refer to gif below*
 
+The root repo directory will look something like this after cloning
+
+![alt text](./assets/directory.png "Root repo directory") <br>
+*Root repo directory* <br>
+
+![alt text](./assets/usage.gif "How to terminal") <br>
+*Gif showing usage* <br>
 
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
-<br />
+<br>
 ISC license. 
 
 ## Credit
@@ -33,6 +45,6 @@ ISC license.
 
 ## Contact
 
-Github: [untitledeveloper](https://github.com/untitledeveloper)<br />
-Email: teoman.h.aydogan@gmail.com<br />
+Github: [untitledeveloper](https://github.com/untitledeveloper)<br>
+Email: teoman.h.aydogan@gmail.com<br>
     
