@@ -6,6 +6,8 @@
 ## Description
 JavaScript CLI Readme Generator
 
+A cool javascript tool that allows you to generate a README.md file from the command line applying a standard layout all for you.
+
 ## Table of Contents
 * [Description](#description)
 * [Installation/Usage](#installation/usage)
